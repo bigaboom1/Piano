@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Piano</string>
+    <string name="mi">Ми</string>
+    <string name="re">Ре</string>
+    <string name="sol">Соль</string>
+    <string name="lya">Ля</string>
+    <string name="DO">До</string>
+    <string name="si">Си</string>
+    <string name="fa">Фа</string>
+    <string name="oktava">Октава</string>
+    <string name="todo">TODO</string>
+    <string name="_2093_0_4186_0_4_7">Включает звуки с частотами от 2093,0 Гц (включительно) до 4186,0 Гц. В нотации Гельмгольца наименования ступеней записываются с маленькой буквы, справа сверху пишется цифра 4 (или четыре штриха). В научной нотации имеет номер 7. Голос человека — свистковый регистр (Мэрайя Кэри).</string>
+    <string name="_1046_5_2093_0_3_6">Включает звуки с частотами от 1046,5 Гц (включительно) до 2093,0 Гц. В нотации Гельмгольца наименования ступеней записываются с маленькой буквы, справа сверху пишется цифра 3 (или три штриха). В научной нотации имеет номер 6. Голос человека (способный исполнять подобные ноты) — тенор-альтино/контратенор (Иван Козловский, Витас ), сопрано (Алла Грачёва дочь Витаса)</string>
+    <string name="soundtrack">Soundtrack</string>
+    <string name="list">List</string>
+    <string name="channel_name">Piano channel</string>
+    <string name="channel_description">Piano channel description.</string>
+    <string-array name="oktaves">
+        <item>Октава 3</item>
+        <item>Октава 4</item>
+    </string-array>
+</resources>
